@@ -1,0 +1,4 @@
+pytest>=7.0
+#kubetest>=0.6.0     # Optional: use kubetest plugin for Kubernetes-aware tests
+# pytest-xdist     # Optional: add if you want parallel execution
+
